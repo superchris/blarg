@@ -1,0 +1,33 @@
+/* Custom styles - Simple.css handles most of the heavy lifting */
+
+/* Adjust the accent color to your preference */
+:root {
+  --accent: #0066cc;
+}
+
+/* Style the post list on homepage */
+ul li time {
+  display: block;
+  font-size: 0.85em;
+  color: var(--text-light);
+}
+
+/* Add some spacing to article headers */
+article header {
+  margin-bottom: 2rem;
+}
+
+article header p {
+  color: var(--text-light);
+  margin-top: 0.5rem;
+}
+
+/* Code block styling */
+pre {
+  border-radius: 4px;
+}
+
+/* Navigation brand/title styling */
+nav a:first-child {
+  font-weight: bold;
+}

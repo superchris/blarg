@@ -1,0 +1,15 @@
+{
+  "name": "superchris-blarg",
+  "version": "1.0.0",
+  "description": "A simple blog powered by Eleventy",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
