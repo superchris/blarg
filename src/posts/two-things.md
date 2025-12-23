@@ -18,4 +18,4 @@ Another kind of feedback human coders often reach for is what you might call "ex
 
 ### You must be this tall to ride this ride.
 
-All of the above are things that many teams can't do right now. There a quite prerequisites: some are obvious, some less so. I'll be talking about those next...
+All of the above are things that many teams can't do right now. There a quite a few prerequisites: some are obvious, some less so. I'll be talking about those in my next post.
