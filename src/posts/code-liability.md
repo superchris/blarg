@@ -25,3 +25,7 @@ The reality though, is that no matter what you do or how hard you try, software 
 ## Where is all this going?
 
 I do not have any words to describe the level of change going on in the software development industry caused by AI being increasingly effective at writing code. This is an extremely recent development, with truly effective coding agents being maybe a year old. Our industry has not yet had time to react and we are very much still figuring it out. However, I think we can make a solid case that it is time to optimize for different things. It has never been possible for a small team to accomplish so much. We may very well be headed for a world where large team software development is obsolete. It is worth reconsidering everything we are doing with that in mind.
+
+### Other thoughts on this subject worth reading:
+- [Lines of Code are back](https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse)
+- [Why Elixir is the best language for AI](https://dashbit.co/blog/why-elixir-best-language-for-ai)
