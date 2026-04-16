@@ -11,4 +11,3 @@ But are you building the right thing? AI will confidently reassure you that you 
 Here is what this all means: we need to actively fight with our AI to "Do the simplest thing that can possibly work." Your AI buddy does not want to do this. You'll need to aggressively force it to. Even worse, your customer might not understand why this is necessary. You may have to patiently explain this more than once.
 
 But if we're going to actually produce value and not just stuff, this is what we need to do.
-like
